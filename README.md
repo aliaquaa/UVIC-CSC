@@ -1,1 +1,1 @@
-# UVIC-CSC past exams
+some past exams for practice
